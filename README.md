@@ -3,6 +3,8 @@
 I'm a Front-end Developer web developer who primarily works on custom WordPress websites.
 <br>
 Interested in seeing what I've been working on? Send me an <a href="mailto:seliyang@gmail.com">email</a>!
+<br><br><br><br>
+Also a cat enthusiast.
 <br><br>
 
 
