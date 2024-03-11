@@ -1,4 +1,4 @@
-<h1>😺 Hi, I’m Skye! </h1>
+<h1>Hi there! </h1>
 <br>
 I'm a front-end web developer who primarily works on custom WordPress websites.
 <br>
