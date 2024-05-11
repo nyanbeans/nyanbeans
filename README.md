@@ -2,7 +2,7 @@
 <br>
 I'm a front-end web developer who primarily works on custom WordPress websites.
 <br>
-Interested in seeing what I've been working on? Send me an <a href="mailto:seliyang@gmail.com">email</a>!
+Currently taking a break!
 <br><br><br><br>
 Also a cat enthusiast.
 <br><br>
