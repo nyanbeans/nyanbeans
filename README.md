@@ -1,10 +1,6 @@
-<h1>Hi there! </h1>
 <br>
-I'm a front-end web developer who primarily works on custom WordPress websites.
-<br>
-Currently taking a break!
+I don't code anymore.
 <br><br><br><br>
-Also a cat enthusiast.
 <br><br>
 
 
